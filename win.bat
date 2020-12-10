@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk1.8.0_121\bin\javac.exe" -Xlint:unchecked -cp ./lib/*:. ru/HttpServer.java
